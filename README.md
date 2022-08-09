@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Liz
+## I'm Liz
 <!--
 **lizcarranza/lizcarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
