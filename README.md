@@ -16,9 +16,9 @@
 </p>
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/344/javascript--v1.png"/>
+<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img alt="JavaScript" width=40px src="https://img.icons8.com/color/344/javascript--v1.png"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizcarranza&show_icons=true&theme=jolly)
