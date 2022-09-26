@@ -1,6 +1,6 @@
 ### **Hi there 👋 I'm Liz**
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning JAVA
 
 📫 How to reach me: lihuencarranza@gmail.com
 
