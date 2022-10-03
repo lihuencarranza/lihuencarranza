@@ -17,6 +17,7 @@
 
 <p align="left">
 <img alt="C" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img alt="Java" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
 <img alt="JavaScript" width=45px src="https://img.icons8.com/color/344/javascript--v1.png"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
