@@ -28,7 +28,7 @@
 
 <!--
 **lizcarranza/lizcarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
 
