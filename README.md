@@ -20,7 +20,6 @@
 <img alt="Java" width=45px src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
 <img alt="JavaScript" width=45px src="https://img.icons8.com/color/344/javascript--v1.png"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizcarranza&show_icons=true&theme=jolly)
@@ -41,4 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
