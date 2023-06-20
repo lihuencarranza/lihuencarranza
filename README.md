@@ -1,6 +1,6 @@
-### **Hi there 👋 I'm Liz**
+### **Hi there 👋 I'm Lihuén**
 
-🌱 I’m currently learning JAVA
+🌱 I’m Software Engineering student at the University of Buenos Aires
 
 📫 How to reach me: lihuencarranza@gmail.com
 
@@ -22,9 +22,9 @@
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizcarranza&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihuencarranza&show_icons=true&theme=jolly)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizcarranza&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuencarranza&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lizcarranza/lizcarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
