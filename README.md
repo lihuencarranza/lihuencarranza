@@ -1,6 +1,7 @@
 ### **Hi there 👋 I'm Lihuén**
 
-🌱 I’m Software Engineering student at the University of Buenos Aires
+🌱 I’m Software Engineering student at the University of Buenos Aires (FIUBA)
+⚡ Fun fact: I People say that I literally look like my profile picture
 
 ### 🔗 **Connect with me:**
 <a href="https://linkedin.com/in/lihuencarranza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lihuencarranza" height="30" width="40" /></a>
@@ -22,8 +23,6 @@
   
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihuencarranza&show_icons=true&theme=jolly)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuencarranza&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lihuencarranza&show_icons=true&theme=jolly)
 -->
 
 
