@@ -20,10 +20,11 @@
 <img alt="Java" width=45px src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
 <img alt="Python" height=45px src="https://img.icons8.com/?size=512&id=13441&format=png"/>
 <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img alt="Rust" width="47px" src="https://github.com/lihuencarranza/lihuencarranza/assets/86395729/1d857a5a-666e-4b56-a1b2-547de6e5e234"/>
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuencarranza&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuencarranza&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lizcarranza/lizcarranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
