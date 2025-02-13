@@ -1,6 +1,7 @@
 ### **Hi there 👋 I'm Lihuén**
 
 🌱 I’m Software Engineering student at the University of Buenos Aires (FIUBA)
+
 ✈️ Currently doing an exchange with the University of Bologna (UNIBO)
 
 🚀 Looking for job opportunities and new projects
