@@ -12,8 +12,8 @@
 ### 🔗 **Connect with me:**
 <a href="https://linkedin.com/in/lihuencarranza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lihuencarranza" height="30" width="40" /></a>
 
-### **Programming with:**
-
+ ### **Programming with:**
+<!--
 <p align="left">
 <img alt="JavaScript" width=45px src="https://img.icons8.com/color/344/javascript--v1.png"/>
 <img alt="Bootrap" width=45px src="https://img.icons8.com/color/344/bootstrap.png"\>
@@ -29,7 +29,7 @@
 <img alt="Rust" width="47px" src="https://github.com/lihuencarranza/lihuencarranza/assets/86395729/1d857a5a-666e-4b56-a1b2-547de6e5e234"/>
   
 </p>
-
+--> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihuencarranza&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
