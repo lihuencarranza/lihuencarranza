@@ -7,7 +7,7 @@
 
 ⚡ Fun fact: People say that I literally look like my profile picture
 
-## 🔗 **Connect with me:**
+## **Connect with me:**
 <a href="https://linkedin.com/in/lihuencarranza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lihuencarranza" height="30" width="40" /></a>
 
 <!--
