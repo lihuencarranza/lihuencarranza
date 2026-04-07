@@ -1,8 +1,12 @@
-## **Hi there 👋 I'm Lihuén**
+-## **Hi there 👋 I'm Lihuén**
 
-🌱 I’m Software Engineering student at the University of Buenos Aires (FIUBA)
+Open to freelance and side projects
 
-<!-- 🚀 Looking for job opportunities and new projects-->
+
+
+<!--🌱 I’m Software Engineering student at the University of Buenos Aires (FIUBA)
+
+<!-- 🚀 Looking for job opportunities and new projects
 
 
 ⚡ Fun fact: People say that I literally look like my profile picture
@@ -28,7 +32,7 @@
 <img alt="Rust" width="47px" src="https://github.com/lihuencarranza/lihuencarranza/assets/86395729/1d857a5a-666e-4b56-a1b2-547de6e5e234"/>
   
 </p>
---> 
+ 
 
 
 ## Tech Stack:
