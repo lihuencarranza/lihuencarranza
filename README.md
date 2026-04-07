@@ -1,4 +1,4 @@
--## **Hi there 👋 I'm Lihuén**
+## **Hi there 👋 I'm Lihuén**
 
 Open to freelance and side projects
 
